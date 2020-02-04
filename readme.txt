@@ -7,3 +7,4 @@ dadadad
 aaa
 dadasda
 Git has a index called stage.
+git tracks changes.
