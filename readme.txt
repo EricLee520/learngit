@@ -8,3 +8,5 @@ aaa
 dadasda
 Git has a index called stage.
 git tracks changes of files.
+my stupid boss still prefers SVN.
+second my stupid boss
