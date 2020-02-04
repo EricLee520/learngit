@@ -6,3 +6,4 @@ i am in a new branch of feature1
 dadadad
 aaa
 dadasda
+Git has a index called stage.
