@@ -11,4 +11,4 @@ git tracks changes of files.
 my stupid boss still prefers SVN.
 second my stupid boss
 Create a new branch is quick & simple.
-Add a merger to test for --no-ff(in master branch)
+Add a merge test for --no-ff
